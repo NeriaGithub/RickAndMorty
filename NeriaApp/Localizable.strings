@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  NeriaApp
+
+  Created by Neria Jerafi on 27/07/2023.
+  
+*/
+
+// error alert
+"ErrorAlertTitle" = "ERROR";
+"ErrorAlertButtonText" = "Close";
+
+// no location details
+"CharacterDetailsNoData" = "No Data";
+
+// location details titles
+"LocationName" = "Name: %@";
+"LocationType" = "Type: %@";
+"LocationDimension" = "Dimension: %@";
